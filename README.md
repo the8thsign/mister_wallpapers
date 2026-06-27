@@ -13,7 +13,6 @@ To add this wallpaper collection to the MiSTer Downloader, edit your `downloader
 ```ini
 
 [the8thsign/mister_wallpapers]
-
 db_url = https://raw.githubusercontent.com/the8thsign/mister_wallpapers/db/db.json.zip
 
 ```
